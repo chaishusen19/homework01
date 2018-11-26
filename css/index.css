@@ -1,0 +1,39 @@
+*{margin:0;padding: 0}
+.top{
+    text-align: center;
+}
+.navbar{
+    line-height: 60px;
+    height: 60px;
+    background: #a2dbf9;
+}
+.navbar-warp{
+    width: 1200px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    height: 60px;
+    display: block;
+    width: 100px;
+    background: #01aef0;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container p{
+    text-indent: 20px;
+}
+.footer{
+    text-decoration: none;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+}
